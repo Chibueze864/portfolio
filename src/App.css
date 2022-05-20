@@ -1,0 +1,62 @@
+@import url("https://fonts.googleapis.com/css2?family=Kumbh+Sans&family=Montserrat&display=swap");
+.body {
+  display: flex;
+  flex-direction: column;
+  margin: 0;
+  padding: 0;
+  width: 100vw;
+  height: 100vh;
+  overflow-x: hidden;
+  position: absolute;
+  font-family: "Poppins", "sans-serif";
+}
+.site {
+  display: flex;
+  flex-direction: column;
+}
+.greeting {
+  display: flex;
+  /* background-color: #FFCC00;
+  justify-content: center;
+  padding-top: calc(0.1*50vh); */
+  height: 100vh;
+  /* background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ1ydtYwnnB1cdUC4w_FV2iTN5RTJ5oRSGVg&usqp=CAU"); */
+  background-color: #FFCC00;
+  justify-content: center;
+}
+.greeting_image {
+  display: flex;
+  margin-left: 2rem;
+}
+#my_pic {
+  width: 45vw;
+  height: auto;
+  object-fit: contain;
+}
+.greeting_text {
+  display: flex;
+  text-align: left;
+  align-items: center;
+  justify-content: center;
+}
+.introduction{
+  height: 40vh;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  gap: 1rem;
+}
+#face{
+  width: 40vw;
+  padding: 2rem;
+  height: auto;
+  object-fit: contain; 
+}
+#about{
+  background-color: #3333331A;
+  padding: 5px;
+}
+.introduction-text{
+  padding: 2rem;
+
+}

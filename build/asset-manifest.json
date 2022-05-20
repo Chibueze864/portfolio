@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Porftolio/static/css/main.230876df.css",
+    "main.js": "/Porftolio/static/js/main.807da923.js",
+    "static/js/787.37faa4c4.chunk.js": "/Porftolio/static/js/787.37faa4c4.chunk.js",
+    "static/media/Shoe-Website.jpg": "/Porftolio/static/media/Shoe-Website.c587e8a69d5123ea9ea7.jpg",
+    "static/media/Space-Website.jpg": "/Porftolio/static/media/Space-Website.136029e92dc6bcb2e204.jpg",
+    "static/media/Lego Data Analysis.jpg": "/Porftolio/static/media/Lego Data Analysis.f7221410741ea7c3e581.jpg",
+    "static/media/IMG-20201110-WA0006.jpg": "/Porftolio/static/media/IMG-20201110-WA0006.4ad0f8515608847f2469.jpg",
+    "static/media/hero-dog.png": "/Porftolio/static/media/hero-dog.59139523ef3757ea83b7.png",
+    "static/media/undraw_hello_re_3evm.svg": "/Porftolio/static/media/undraw_hello_re_3evm.1348d885b02bf25c12b095f6aa9d894a.svg",
+    "index.html": "/Porftolio/index.html",
+    "main.230876df.css.map": "/Porftolio/static/css/main.230876df.css.map",
+    "main.807da923.js.map": "/Porftolio/static/js/main.807da923.js.map",
+    "787.37faa4c4.chunk.js.map": "/Porftolio/static/js/787.37faa4c4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.230876df.css",
+    "static/js/main.807da923.js"
+  ]
+}
